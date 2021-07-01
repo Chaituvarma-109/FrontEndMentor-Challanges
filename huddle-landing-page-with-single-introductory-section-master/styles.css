@@ -18,19 +18,20 @@ body {
 }
 
 .illustration {
-  width: 600px;
-  height: 400px;
-  margin-top: 80px;
-  margin-left: 50px;
+  width: 450px;
+  height: 350px;
+  padding-top: 80px;
+  padding-left: 50px;
 }
 
 .title-logo {
+  height: 50px;
   margin-top: 50px;
   margin-left: 50px;
 }
 
 .matter {
-  margin-left: 40px;
+  padding: 70px;
 }
 
 h1 {
@@ -41,4 +42,10 @@ h1 {
 .matter p {
   padding-bottom: 10px;
   line-height: 25px;
+}
+
+.btn {
+  padding: 8px;
+  border-radius: 20px;
+  border-style: none;
 }
